@@ -21,7 +21,7 @@ for i, el in enumerate(data.splitlines()):
 
 	el = el.split()
 	try:
-		x, y, w, h = int(el[6]), int(el[7]), int(el[8]), int(el[9])
+		# x, y, w, h = int(el[6]), int(el[7]), int(el[8]), int(el[9])
 		print(el[11])
 		prikol.append(el[11])
 	except IndexError:
