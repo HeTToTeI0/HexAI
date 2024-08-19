@@ -10,7 +10,7 @@ python main.py image.png
 ```
 5. enjoy
 # HexAI NOT WORKING!!!!!!!!!!!!!!!!!!!!
-just change hex viewer (bar os)/progress cmd font
+just change hex viewer (bar os)/progress cmd font<br>
 or you can dm me in discord (textwrittenbydmitriyutkin)
 # How to use HexToRgb?
 e.x. usage:
