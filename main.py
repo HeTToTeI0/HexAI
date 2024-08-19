@@ -28,4 +28,4 @@ for i, el in enumerate(data.splitlines()):
 		print("hmm")
 
 print(prikol)
-print([item for item, count in collections.Counter(prikol).items() if count > 4])
+print("code: " + str([item for item, count in collections.Counter(prikol).items() if count > 4]))
