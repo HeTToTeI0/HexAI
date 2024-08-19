@@ -9,6 +9,9 @@ repo for pbar95 stuff (hexai, hex to rgb)
 python main.py image.png
 ```
 5. enjoy
+# HexAI NOT WORKING!!!!!!!!!!!!!!!!!!!!
+just change hex viewer (bar os)/progress cmd font
+or you can dm me in discord (textwrittenbydmitriyutkin)
 # How to use HexToRgb?
 e.x. usage:
 ```
